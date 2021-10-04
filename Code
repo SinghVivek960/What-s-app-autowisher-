@@ -1,0 +1,6 @@
+#Installing pycharm and then install pywhatkit in pycharm
+#pip install pywhatkit
+import pywhatkit
+pywhatkit.sendwhatmsg('Number','Dialogue',Hours,Minutes)
+#Number is for to whom you are sending the message
+#Then run the program
